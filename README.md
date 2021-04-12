@@ -1,4 +1,4 @@
-# Logistic_regression
+# Logistic_regression :- https://web.stanford.edu/~jurafsky/slp3/5.pdf
 # Sigmod Function 
 # Squashing 
 # Regularization 
